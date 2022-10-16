@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/AdrianCosme5850/CAPS#readme",
   "dependencies": {
+    "chance": "^1.1.8",
     "jest": "^29.1.2",
     "socket.io": "^4.5.2",
     "socket.io-client": "^4.5.2"
